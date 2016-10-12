@@ -1,0 +1,14 @@
+    <resources>
+        <string name="app_name">TaskResources</string>
+        <string name="dis_button">Відключити кнопку внизу</string>
+        <string name="dis_checkbox">Відключити чекбокс угорі</string>
+        <string name="en_button">Включити кнопку знизу</string>
+        <string name="en_checkbox">Включити чекбокс угорі</string>
+
+        <string name="screen_size">Розмір екрану:</string>
+        <string name="screen_density">Щільність екрану:</string>
+        <string name="screen_orientation">Орієнтація екрану: портретна</string>
+        <string name="locale">Локаль: українська</string>
+        <string name="mode">Режим: денний</string>
+        <string name="touch_mode">Тач-режим: палець</string>
+    </resources>

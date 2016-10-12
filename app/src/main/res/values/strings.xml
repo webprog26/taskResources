@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskResources</string>
+    <string name="dis_button">Disable button below</string>
+    <string name="dis_checkbox">Disable checkbox above</string>
+    <string name="en_button">Enable button below</string>
+    <string name="en_checkbox">Enable checkbox above</string>
+    
+    <string name="screen_size">Screen size is</string>
+    <string name="screen_density">Screen density is</string>
+    <string name="screen_orientation">Screen orientation is</string>
+    <string name="locale">Locale is</string>
+    <string name="mode">Mode is</string>
+    <string name="touch_mode">Touch mode is</string>
+</resources>
