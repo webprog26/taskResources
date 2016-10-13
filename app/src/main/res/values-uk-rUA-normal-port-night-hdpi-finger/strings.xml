@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">TaskResources</string>
-    <string name="dis_button">Disable button below</string>
-    <string name="dis_checkbox">Disable checkbox above</string>
-    <string name="en_button">Enable button below</string>
-    <string name="en_checkbox">Enable checkbox above</string>
-
-
-</resources>
