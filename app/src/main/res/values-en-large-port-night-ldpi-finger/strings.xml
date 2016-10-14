@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskResources</string>
+    <string name="dis_button">Disable button</string>
+    <string name="dis_checkbox">Disable checkbox</string>
+    <string name="en_button">Enable button</string>
+    <string name="en_checkbox">Enable checkbox</string>
+
+    <string name="screen_size">Screen size ~ 640dp x 480dp</string>
+    <string name="screen_density">Screen density ~ 120dpi</string>
+    <string name="screen_orientation">Screen orientation is portrait</string>
+    <string name="locale">Locale: english</string>
+    <string name="mode">Mode: night</string>
+    <string name="touch_mode">Touch mode: finger</string>
+</resources>

@@ -13,7 +13,7 @@
         <item name="android:textSize">16dp</item>
         <item name="android:focusable">true</item>
         <item name="android:clickable">true</item>
-        <item name="android:background">@drawable/selector_button_bg</item>
+        <item name="android:background">@drawable/selector_button_control</item>
     </style>
 
     <style name="CustomCheckBoxStyle" parent="@android:style/Widget">

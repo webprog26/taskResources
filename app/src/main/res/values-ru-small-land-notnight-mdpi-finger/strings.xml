@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskResources</string>
+    <string name="dis_button">Отключить кнопку</string>
+    <string name="dis_checkbox">Отключить чекбокс</string>
+    <string name="en_button">Включить кнопку</string>
+    <string name="en_checkbox">Включить чекбокс</string>
+
+    <string name="screen_size">Размер экрана ~ 426dp x 320dp</string>
+    <string name="screen_density">Плотность экрана ~ 160dpi</string>
+    <string name="screen_orientation">Ориентация экрана: пейзажная</string>
+    <string name="locale">Локаль: русская</string>
+    <string name="mode">Режим: девной</string>
+    <string name="touch_mode">Тач-режим: палец</string>
+</resources>

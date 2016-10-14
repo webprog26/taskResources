@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskResources</string>
+    <string name="dis_button">Відключити кнопку</string>
+    <string name="dis_checkbox">Відключити чекбокс</string>
+    <string name="en_button">Включити кнопку</string>
+    <string name="en_checkbox">Включити чекбокс</string>
+
+    <string name="screen_size">Розмір екрану ~ 470dp x 320dp</string>
+    <string name="screen_density">Щільність екрану ~ 160dpi</string>
+    <string name="screen_orientation">Орієнтація екрану: портретна</string>
+    <string name="locale">Локаль: українська</string>
+    <string name="mode">Режим: нічний</string>
+    <string name="touch_mode">Тач-режим: палець</string>
+</resources>

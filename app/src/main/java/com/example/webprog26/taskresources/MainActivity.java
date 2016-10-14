@@ -17,8 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private Button mBtnControl;
     private CheckBox mChbControl;
 
-    private TextView mTvScreenSize, mTvScreenDensity, mTvScreenOrientation, mTvLocale, mTvMode;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -54,22 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
-//        Log.i(TAG, "size: " + "width: " + String.valueOf(getResources().getConfiguration().screenWidthDp)
-//                + ", height: " + String.valueOf(getResources().getConfiguration().screenHeightDp));
-//        Log.i(TAG, "density: " + String.valueOf(getResources().getConfiguration().densityDpi));
-//        Log.i(TAG, "orientation: " + String.valueOf(getResources().getConfiguration().orientation));
-//        Log.i(TAG, "locale: " + String.valueOf(getResources().getConfiguration().locale));
-//        Log.i(TAG, "uIMode: " + String.valueOf(getResources().getConfiguration().uiMode));
-//        Log.i(TAG, "size in pizels: " + String.valueOf(getResources().getDisplayMetrics().widthPixels) + ", height: "+ String.valueOf(getResources().getDisplayMetrics().heightPixels));
-//        Log.i(TAG, "touchscreen: " + String.valueOf(getResources().getConfiguration().touchscreen));
-//
-//        if(getResources().getConfiguration().uiMode == Configuration.UI_MODE_NIGHT_YES)
-//        {
-//            Log.i(TAG, "night mode: active");
-//        } else {
-//            Log.i(TAG, "night mode: not active");
-//        }
     }
 
     private void changeViewEnabledState(View v)

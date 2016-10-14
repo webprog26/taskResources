@@ -7,7 +7,7 @@
     <string name="en_checkbox">Enable checkbox</string>
 
     <string name="screen_size">Screen size ~ 470dp x 320dp</string>
-    <string name="screen_density">Screen density ~ 420dpi</string>
+    <string name="screen_density">Screen density ~ 240dpi</string>
     <string name="screen_orientation">Screen orientation is landscape</string>
     <string name="locale">Locale: english</string>
     <string name="mode">Mode: not night</string>

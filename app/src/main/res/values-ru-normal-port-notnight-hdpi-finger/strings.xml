@@ -7,7 +7,7 @@
     <string name="en_checkbox">Включить чекбокс</string>
 
     <string name="screen_size">Размер экрана ~ 470dp x 320dp</string>
-    <string name="screen_density">Плотность экрана ~ 420dpi</string>
+    <string name="screen_density">Плотность экрана ~ 240dpi</string>
     <string name="screen_orientation">Ориентация экрана: портретная</string>
     <string name="locale">Локаль: русская</string>
     <string name="mode">Режим: девной</string>

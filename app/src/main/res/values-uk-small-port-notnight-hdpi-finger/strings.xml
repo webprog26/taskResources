@@ -7,7 +7,7 @@
     <string name="en_checkbox">Включити чекбокс</string>
 
     <string name="screen_size">Розмір екрану ~ 426dp x 320dp</string>
-    <string name="screen_density">Щільність екрану ~ 420dpi</string>
+    <string name="screen_density">Щільність екрану ~ 240dpi</string>
     <string name="screen_orientation">Орієнтація екрану: портретна</string>
     <string name="locale">Локаль: українська</string>
     <string name="mode">Режим: денний</string>

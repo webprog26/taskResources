@@ -11,4 +11,7 @@
     <item
         android:state_enabled="false"
         android:drawable="@drawable/checkbox_control_disabled"/>
+    <item android:state_enabled="true"
+        android:state_focused="true"
+        android:drawable="@drawable/checkbox_control_focused"/>
 </selector>
